@@ -1,6 +1,6 @@
 
 
-const buttom =  document.querySelector(".main-button");
-console.log(buttom);
+const button =  document.querySelector(".main-button");
+console.log(button);
 
 button.style.color = "white";
